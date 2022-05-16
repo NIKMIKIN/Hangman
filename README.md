@@ -1,3 +1,3 @@
-# Personal-Projects
+# Hangman in Python
 Personal Projects
 Hangman Game
